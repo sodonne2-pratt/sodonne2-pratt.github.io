@@ -1,0 +1,105 @@
+
+    h1 {
+    justify-content: center;
+    display: flex;
+    font-family: fantasy;
+    font: bolder;
+    background-color: #ADC178;
+    border: 20px solid;
+    border-color: #DDE5B6;
+    text-decoration: underline;
+    }
+    
+ .regularnavigation {
+    font-family: fantasy;
+    font: bolder;
+    color: #ADC178;    
+    background-color: #6C584C;
+    justify-content: center;
+    display: flex;
+    border: 10px solid;
+    border-color: #A98467;}
+    
+    a {
+    color:#ADC178;
+    font-weight: bolder
+    }
+
+    a:hover { 
+    background-color: #A98467
+    }
+
+    h2 {
+    justify-content: center;
+    display: flex;
+    font-family: fantasy;
+    background-color: #DDE5B6;
+    color: #A98467;
+    border: 20px solid;
+    border-color: #ADC178;
+    }
+    
+    h3 {   
+      font-family: Cochin;
+    font-size: larger;
+    color: #DDE5B6;
+    background-color: #6C584C;
+    text-align: center;
+    }
+    
+    h4 {
+    justify-content: center;
+    display: flex;
+    font-family: fantasy;
+    background-color: #DDE5B6;
+    text-decoration: underline;
+    }
+    
+    .main {
+    font-family: Cochin;
+    font-size: medium;
+    }
+    
+    body{color: #6C584C;}
+
+
+    
+    .list {
+    font-family: Cochin;
+    font-size: larger;
+    background-color: #6C584C;   
+    color: #DDE5B6;
+    margin-bottom: 20px;
+    border: 10px solid;
+    border-color: #A98467
+    }
+    
+    body {
+    background-color: white;
+    }
+p {font-size: large;}
+
+  figcaption{text-align:center}
+
+    .navigation {
+    display: flex;
+    justify-content: center;
+    height: 200px;
+    background-color: white;
+    }
+
+.table1{justify-content: center; display: flex;}
+.table2 {justify-content: center; display: flex;}
+ .table3{justify-content: center; display: flex; text-align: center;}
+
+    footer {
+    font-family: fantasy;
+    justify-content: center;
+    display: flex;
+    margin-top: 50px;
+    background-color: #ADC178;
+    font: bolder;
+    border: 20px solid;
+    border-color: #DDE5B6
+    }
+    
