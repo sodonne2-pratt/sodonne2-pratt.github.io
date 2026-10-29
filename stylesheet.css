@@ -13,7 +13,7 @@
  .regularnavigation {
     font-family: fantasy;
     font: bolder;
-    font-size: medium;
+    font-size: large;
     color: #ADC178;    
     background-color: #6C584C;
     justify-content: center;
@@ -95,6 +95,7 @@ p {font-size: large;}
 
     footer {
     font-family: fantasy;
+    position: sticky;
     bottom: 0;
     left: 0;
     width: 100%;
