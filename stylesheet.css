@@ -22,7 +22,7 @@
     border-color: #A98467;}
     
     a {
-    color:#DDE5B6;
+    color: #ADC178;
     font-weight: bolder
     }
 
@@ -96,9 +96,8 @@ p {font-size: large;}
 
     footer {
     font-family: fantasy;
-    position: sticky;
-    bottom: 0;
-    left: 0;
+    display: flex;
+    justify-content: center;
     width: 100%;
     text-align: center;
     margin-top: 50px;
