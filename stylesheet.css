@@ -19,7 +19,9 @@
     justify-content: center;
     display: flex;
     border: 10px solid;
-    border-color: #A98467;}
+    border-color: #A98467;
+    text-decoration: underline;
+ }
     
     a {
     color: #ADC178;
