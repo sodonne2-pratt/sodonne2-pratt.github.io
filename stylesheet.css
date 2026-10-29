@@ -13,7 +13,7 @@
  .regularnavigation {
     font-family: fantasy;
     font: bolder;
-    font-size: large;
+    font-size: 30px;
     color: #ADC178;    
     background-color: #6C584C;
     justify-content: center;
@@ -22,7 +22,7 @@
     border-color: #A98467;}
     
     a {
-    color:#ADC178;
+    color:#DDE5B6;
     font-weight: bolder
     }
 
