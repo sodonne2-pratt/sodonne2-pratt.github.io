@@ -13,7 +13,7 @@
  .regularnavigation {
     font-family: fantasy;
     font: bolder;
-    font-size: 30px;
+    font-size: 20px;
     color: #ADC178;    
     background-color: #6C584C;
     justify-content: center;
@@ -108,3 +108,7 @@ p {font-size: large;}
     border-color: #DDE5B6
     }
     
+.resources {
+    background-color: #DDE5B6;
+    border: 20px solid;
+    border-color: #ADC178;}
